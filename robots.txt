@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://github.com/fexas/fexas.github.io.git/sitemap.xml
